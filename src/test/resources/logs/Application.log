@@ -1,0 +1,9 @@
+20/05/2021 22:49:11 devpinoyLogger test setup method started!!!
+20/05/2021 22:49:11 devpinoyLogger config file loaded!!
+20/05/2021 22:49:11 devpinoyLogger OR file loaded!!
+20/05/2021 22:49:14 devpinoyLogger chrome browser launched!!!
+20/05/2021 22:49:15 devpinoyLogger navigated to the http://www.way2automation.com/angularjs-protractor/banking/#/login
+20/05/2021 22:49:15 devpinoyLogger inside login test
+20/05/2021 22:49:18 devpinoyLogger login successful!!!
+20/05/2021 22:49:21 devpinoyLogger test teardown method executed!!!
+20/05/2021 22:49:23 devpinoyLogger execution completed and browsers closed!!!
